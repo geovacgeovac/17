@@ -1,0 +1,47 @@
+[
+  {
+    "name": "ZJDPC",
+    "address": "1440 Ryan Place, Mississauga, Ontario L5C 1J6, Canada",
+    "unitNumber": "1205",
+    "postalCode": "L5C 1J6",
+    "latitude": "43.553596",
+    "longitude": "-79.654531",
+    "telephone": "416-829-6993",
+    "extension": "25",
+    "email": "geovac@icloud.com",
+    "tags": [
+      "Wills & Estates"
+    ],
+    "image": "https://static1.squarespace.com/static/6565fcef97ae3b79a1ed1d92/t/67537224134ec168f649cf9b/1733521956403/Ali+%26+Demek.jpg"
+  },
+  {
+    "name": "Ali & Demek",
+    "address": "95 Queen Street South, Mississauga, Ontario L5M 1K7, Canada",
+    "unitNumber": "B",
+    "postalCode": "L5M 1K7",
+    "latitude": "43.584593",
+    "longitude": "-79.71711",
+    "telephone": "416-939-7967",
+    "extension": "1005",
+    "email": "zuzana@alidemek.com",
+    "tags": [
+      "Real Estate Law"
+    ],
+    "image": "https://static1.squarespace.com/static/6565fcef97ae3b79a1ed1d92/t/67537224134ec168f649cf9b/1733521956403/Ali+%26+Demek.jpg"
+  },
+  {
+    "name": "No Unit No Extension",
+    "address": "330 Rathburn Road West, Mississauga, Ontario L5B 0H3, Canada",
+    "unitNumber": "N/A",
+    "postalCode": "L5B 0H3",
+    "latitude": "43.589124",
+    "longitude": "-79.650876",
+    "telephone": "456-567-6543",
+    "extension": "N/A",
+    "email": "sdf@lkjf.com",
+    "tags": [
+      "Corporate and Commercial Law"
+    ],
+    "image": "https://static1.squarespace.com/static/6565fcef97ae3b79a1ed1d92/t/67537224134ec168f649cf9b/1733521956403/Ali+%26+Demek.jpg"
+  }
+]
